@@ -1,0 +1,55 @@
+{
+  "project_info": {
+    "project_number": "632665147624",
+    "firebase_url": "https://able-6f708.firebaseio.com",
+    "project_id": "able-6f708",
+    "storage_bucket": "able-6f708.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:632665147624:android:d1b2bed6fa4b4029",
+        "android_client_info": {
+          "package_name": "com.iskylar.shweta.able"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "632665147624-n9jj2kivkl4od25i5umteeia39rqluj7.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.iskylar.shweta.able",
+            "certificate_hash": "8d03f63e990f4646108c6d782754fac39b0af9f0"
+          }
+        },
+        {
+          "client_id": "632665147624-kkkcu1k4ui91v4ti2ih4sf0lgl7fjnui.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAogY83_vUjzj7mqd0ujuVWbUDY3GX6Ddg"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 2,
+          "other_platform_oauth_client": [
+            {
+              "client_id": "632665147624-kkkcu1k4ui91v4ti2ih4sf0lgl7fjnui.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
